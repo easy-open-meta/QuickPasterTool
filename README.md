@@ -95,7 +95,7 @@ quick-paster-tool
 
 #  :family: 项目作者：
 
-**李顺(本项目的灵感提供者)**
+**codeRookie(本项目的灵感提供者)**
 
 **咖啡与网络(Java&Net)(后期维护团队)**
 
