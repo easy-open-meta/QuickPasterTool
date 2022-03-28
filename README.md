@@ -95,9 +95,9 @@ quick-paster-tool
 
 #  :family: 项目作者：
 
-**codeRookie(本项目的灵感提供者)**
+**[codeRookie](https://gitee.com/coderokie)(本项目的灵感提供者)**
 
-**咖啡与网络(Java&Net)(后期维护团队)**
+**[咖啡与网络(Java&Net)](https://gitee.com/java-and-net)(开发/维护团队)**
 
 #  :computer: 项目运行部署：
 
