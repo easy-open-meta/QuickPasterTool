@@ -1,5 +1,4 @@
-
-
+<h1 align="center">![项目LOGO](logo.png)</h1>
 <h1 align="center">QuickPasterTool</h1>
 <p align="center">
 	<a href='https://gitee.com/java-and-net/quick-paster-tool/stargazers'><img src='https://gitee.com/java-and-net/quick-paster-tool/badge/star.svg?theme=dark' alt='star'></img></a>
